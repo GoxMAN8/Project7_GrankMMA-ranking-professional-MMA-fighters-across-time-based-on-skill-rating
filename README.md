@@ -1,9 +1,9 @@
 # Project7_GrankMMA-ranking-professional-MMA-fighters-across-time-based-on-skill-rating
 
-Msc Data Science thesis, City University, London. All code is provided, description of content and order in appendix G in final report. 
-Code is not perfect and replication would not be straight-forward, some editing would be required due to undocumented changes and non-linear
-workflow. Data is not provided. Even though these are original files uploaded as part of final year project in Msc Data Science, it is 
-early and imperfect version, many significant improvements are to be implemented, bigger project underway. 
+Msc Data Science thesis, City University, London. All code is provided in zip file, description of content and order in appendix G in final report. 
+Code is not perfect and replication of results would not be straight-forward, some editing would be required due to undocumented changes and non-linear
+workflow. Even though these are original files uploaded as part of final year project in Msc Data Science, it is 
+early and imperfect version, many significant improvements are to be implemented, larger project is underway. 
 
 
 # Abstract
